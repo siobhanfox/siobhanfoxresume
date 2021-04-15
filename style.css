@@ -1,0 +1,79 @@
+body{
+    font-family: "Heebo";
+    min-height: 100%;
+    padding: 10px;
+    margin: 0;
+}
+.row {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.column {
+    float: left;
+    margin: auto;
+    height: 100%;
+}
+.left{
+    width: 40%;
+    text-align: right;
+}
+.right {
+    padding-left: 1%;
+    width: 59%;
+}
+
+#name{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 70px;
+    
+    color: #000000;
+}
+#email{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+#section_title{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 40px;
+}
+#job{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;    
+}
+#role{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;    
+}
+#tasks{
+    font-family: Heebo;
+    font-style: thin;
+    font-weight: thin;
+    font-size: 14px;
+    line-height: 17px;    
+}
+#time{
+    font-family: Heebo;
+    font-style: italic;
+    font-weight: thin;
+    font-size: 14px;
+    line-height: 17px;    
+}
