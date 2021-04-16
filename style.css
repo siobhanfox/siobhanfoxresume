@@ -51,7 +51,7 @@ a{
     font-family: Heebo;
     font-style: normal;
     font-weight: normal;
-    font-size: 32px;
+    font-size: 28px;
     line-height: 36px;
 }
 #job{
@@ -73,7 +73,8 @@ a{
     font-style: thin;
     font-weight: thin;
     font-size: 14px;
-    line-height: 17px;    
+    line-height: 17px;  
+    padding-bottom: 3px;  
 }
 #time{
     font-family: Heebo;
